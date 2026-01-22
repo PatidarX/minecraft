@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>FireNodeX</title>
+
+  <!-- Google Font -->
+  <link rel="stylesheet" href="pati.css">
+
+  
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <div class="logo">🔥 Fire<span>NodeX</span></div>
+
+    <nav class="nav-links">
+      <a class="active" href="#">Home</a>
+      <a href="https://www.youtube.com/">Hosting</a>
+      <a href="#">FireCraftX S2</a>
+      <a href="#">Features</a>
+      <a href="#">Support</a>
+      <a href="#">Server Panel</a>
+    </nav>
+
+    <button class="login-btn">Login</button>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="pill">SEASON 2 NOW LIVE ON FIRECRAFTX</div>
+
+    <h1>
+      FireNodeX — Powering Servers.<br />
+      <span>Fueling FireCraftX S2.</span>
+    </h1>
+
+    <p class="subtitle">
+      Premium Minecraft Hosting & High-Performance Node Services built for speed,
+      stability, and serious gamers. Launch your dream server in under 60 seconds.
+    </p>
+
+    <div class="buttons">
+      <button class="btn-primary">🔥 Get Started</button>
+      <button class="btn-secondary">🎮 Join FireCraftX S2</button>
+    </div>
+  </section>
+
+</body>
+</html>
